@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "e8e4",
+      "name": "naven",
+      "email": "naveen@gmail.com",
+      "phone": "9988779985"
+    },
+    {
+      "id": "1bf6",
+      "name": "pavan",
+      "email": "pave@gamil.com",
+      "phone": "7475978698"
+    },
+    {
+      "id": "8e0d",
+      "name": "mohan",
+      "email": "mohan@mohan.gmail.com",
+      "phone": "8877994455"
+    },
+    {
+      "id": "3d31",
+      "name": "palavi",
+      "email": "pallu@gami.in",
+      "phone": "8855886699"
+    },
+    {
+      "id": "4bc3",
+      "name": "Anusha",
+      "email": "Anu@sha.gmail.com",
+      "phone": "7788558866"
+    },
+    {
+      "id": "d33f",
+      "name": "Kavitha",
+      "email": "kavitha121@gamil.com",
+      "phone": "7744558869"
+    },
+    {
+      "id": "3871",
+      "name": "Swapna",
+      "email": "Swapii@gamil.com",
+      "phone": "9599998586"
+    },
+    {
+      "id": "be9b",
+      "name": "Nikil",
+      "email": "nikilstyle@gamil.com",
+      "phone": "9633214785"
+    },
+    {
+      "id": "d85d",
+      "name": "Chandra",
+      "email": "chandra@k.gmil.com",
+      "phone": "852963741"
+    },
+    {
+      "id": "21a6",
+      "name": "James",
+      "email": "james@gamil.com",
+      "phone": "7418529630"
+    }
+  ]
+}
