@@ -63,4 +63,5 @@ navegate your json file and use the command
 and finally start the app 
 ## final step
       npm start
-after enter the command asking the change the port click ##y  
+after enter the command asking the change the port click 
+      y  
