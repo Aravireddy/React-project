@@ -41,22 +41,23 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 ## install dependency
+1st
+      npm install react-router-dom
+2nd
 
-      ### `npm install react-router-dom`
-
-      ### `npm install bootstrap`
-
-      ### `npm install axios`
-
-      ### `npm install react-icons`
-
-      ### `npm install json-server`
+      npm install bootstrap
+3rd
+      npm install axios
+4th
+      npm install react-icons
+5th
+      npm install json-server
 
 ## First one you need to start the server 
 
-      ### `npx json-server db.json` 
+      npx json-server db.json
       
-      navegate your json file and use the command
+navegate your json file and use the command
 and finally start the app 
-      ### `npm start`
+      npm start
 
